@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lxlneo/express-base#readme",
   "dependencies": {
+    "debug": "^2.2.0",
     "express": "^4.13.3",
     "express-handlebars": "^2.0.1",
     "http-api-client": "^0.1.8"
